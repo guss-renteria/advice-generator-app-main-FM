@@ -1,10 +1,12 @@
 import './init.style.scss'
 
+import Advice from '../../components/Advice/Advice.component'
+
 const Init = () => {
   // * return
   return (
     <section className='init view'>
-      <h1>Init</h1>
+      <Advice />
     </section>
   )
 }
