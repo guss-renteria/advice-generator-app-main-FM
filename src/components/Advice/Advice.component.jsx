@@ -32,7 +32,7 @@ const Advice = () => {
 
   // * return
   return (
-    <main className='advice'>
+    <div className='advice'>
       <p>{ `ADVICE #${ current_advice?.id }` }</p>
       <h1>{ current_advice?.advice }</h1>
       <div className='divider'>
@@ -41,7 +41,7 @@ const Advice = () => {
       <button ref={ button_generate_advice } onClick={() => genAdvice()}>
         <img src={ icon_dice } alt='dice'/>
       </button>
-    </main>
+    </div>
   )
 }
 
