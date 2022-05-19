@@ -1,0 +1,29 @@
+$light-cyan: hsl(193, 38%, 86%);
+$neon-green: hsl(150, 100%, 66%);
+
+$grayish-blue: hsl(217, 19%, 38%);
+$dark-grayish-Blue: hsl(217, 19%, 24%);
+$dark-blue: hsl(218, 23%, 16%);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  color: $light-cyan;
+  font-family: 'Manrope', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+html {
+  font-size: .625rem;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+body {
+  background: $dark-blue;
+}
+
+.attribution {
+  display: none;
+}
