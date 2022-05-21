@@ -29,12 +29,12 @@ Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Varcel]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-application-with-react-and-sass-NnNiJYeWzA)
+- Live Site URL: [Varcel](https://advice-generator-app-main-fm.vercel.app/)
 
 ## My process
 
