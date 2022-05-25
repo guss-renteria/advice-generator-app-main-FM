@@ -34,7 +34,7 @@ Generate a new piece of advice by clicking the dice icon
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-application-with-react-and-sass-NnNiJYeWzA)
-- Live Site URL: [Varcel](https://advice-generator-app-main-fm.vercel.app/)
+- Live Site URL: [Vercel](https://advice-generator-app-main-fm.vercel.app/)
 
 ## My process
 
